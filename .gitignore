@@ -1,7 +1,12 @@
 *.exe
-*.obj
 *.ilk
+*.obj
 *.pdb
+*.sln
+*.vcxproj
+*.filters
+*.user
 Debug/
 Release/
+ipch/
 .vs/
